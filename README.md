@@ -16,4 +16,4 @@ I'm Hyeonsu Jeong, a growing developer. 🌱
   <a href="mailto:jeonghyeonsu3331@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeonghyeonsu3331@gmail.com"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=Slice&color=gradient&text=%20%20%20&height=200&fontSize=100)
+![footer](https://capsule-render.vercel.app/api?section=footer?type=Slice&color=gradient&text=%20%20%20&height=200&fontSize=100)
