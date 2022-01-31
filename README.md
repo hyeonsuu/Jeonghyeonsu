@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&c&color=FAED7D&text=%20Hi!%20I'm%20Hyeonsu%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Slice&c&color=FAED7D&text=%20Hi!%20I'm%20Hyeonsu&fontColor=FFFFFF%20%20&height=200&fontSize=100)
 
 <p>👋 Hi !! 👋
 I'm Hyeonsu Jeong, a growing developer. 🌱
