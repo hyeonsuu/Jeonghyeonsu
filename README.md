@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&c&color=#FAED7D&text=%20Hi!%20I'm%20Hyeonsu%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Slice&c&color=_#FAED7D&text=%20Hi!%20I'm%20Hyeonsu%20%20&height=200&fontSize=100)
 
 <p>👋 Hi !! 👋
 I'm Hyeonsu Jeong, a growing developer. 🌱
@@ -15,5 +15,3 @@ I'm Hyeonsu Jeong, a growing developer. 🌱
 <p align="center">
   <a href="mailto:jeonghyeonsu3331@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeonghyeonsu3331@gmail.com"/></a>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?section=footer?type=Slice&color=gradient&text=%20%20%20&height=200&fontSize=100)
