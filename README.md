@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&text=%20Hi!%20I'm%20Hyeonsu%20%20&height=200&fontSize=100)
 
+<p>👋 Hi !! 👋
+I'm Hyeonsu Jeong, a growing developer. 🌱
+</p>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
