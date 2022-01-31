@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Hi!%20I'm%20Hyeonsu%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=%20Hi!%20I'm%20Hyeonsu%20%20&height=200&fontSize=100)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
