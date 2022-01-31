@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&c&color=FFBB00&text=%20Hi!%20I'm%20Hyeonsu&fontColor=FFFFFF%20%20&height=200&fontSize=100)
 
-<p>👋 Hi !! 👋
+<p align="center">
+👋 Hi !! 👋
 I'm Hyeonsu Jeong, a growing developer. 🌱
 </p>
 
