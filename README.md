@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=%20Hi!%20I'm%20Hyeonsu%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&text=%20Hi!%20I'm%20Hyeonsu%20%20&height=200&fontSize=100)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -12,4 +12,4 @@
   <a href="mailto:jeonghyeonsu3331@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jeonghyeonsu3331@gmail.com"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=%20Hi!%20I'm%20Hyeonsu%20%20&height=200&fontSize=100)
+![footer](https://capsule-render.vercel.app/api?type=Slice&color=gradient&text=%20%20%20&height=200&fontSize=100)
