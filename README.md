@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&c&color=FAE0D4&text=%20Hi!%20I'm%20Hyeonsu&fontColor=000000%20%20&height=180&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Slice&c&color=FAE0D4&text=%20Hi!%20I'm%20Hyeonsu&fontColor=000000%20%20&height=180&section=header&fontSize=90)
 
 <p align="center">
 👋 Hi !! 👋
