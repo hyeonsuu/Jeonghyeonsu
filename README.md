@@ -24,5 +24,5 @@ I'm Hyeonsu Jeong, a growing developer. 🌱
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="mailto:jeonghyeonsu3331@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyeonsu.dev@gmail.com"/></a>
+  <a href="mailto:hyeonsu.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyeonsu.dev@gmail.com"/></a>
 </p>
